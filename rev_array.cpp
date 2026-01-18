@@ -11,12 +11,13 @@ void reverseArray(int arr[], int sz){
     }
 }
 int main(){
-    int arr[] = {1, 2, 3, 4};
-    int sz = 4;
+    
+    int sz;
+    cin>>sz;
 
-    cout<<"orignal aaray: ";
+    int arr[sz];
     for(int i=0; i<sz; i++){
-        cout<<arr[i]<<" ";
+        cin>>arr[i];
     }
 
     cout<<"\nafter reversing : \n";
