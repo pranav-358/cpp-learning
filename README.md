@@ -74,14 +74,17 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/pranav-358/cpp-learning/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
 ## Math
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/pranav-358/cpp-learning/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/pranav-358/cpp-learning/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -90,4 +93,13 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/pranav-358/cpp-learning/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
