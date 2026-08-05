@@ -102,4 +102,16 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/pranav-358/cpp-learning/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/pranav-358/cpp-learning/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/pranav-358/cpp-learning/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
