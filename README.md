@@ -80,11 +80,13 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | ------- |
 | [0486-predict-the-winner](https://github.com/pranav-358/cpp-learning/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/pranav-358/cpp-learning/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/pranav-358/cpp-learning/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/pranav-358/cpp-learning/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -94,14 +96,17 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | ------- |
 | [0486-predict-the-winner](https://github.com/pranav-358/cpp-learning/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/pranav-358/cpp-learning/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/pranav-358/cpp-learning/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/pranav-358/cpp-learning/tree/master/1510-stone-game-iv) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -114,4 +119,12 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/pranav-358/cpp-learning/tree/master/3310-remove-methods-from-project) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/pranav-358/cpp-learning/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/pranav-358/cpp-learning/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
