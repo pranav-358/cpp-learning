@@ -53,6 +53,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/pranav-358/cpp-learning/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pranav-358/cpp-learning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pranav-358/cpp-learning/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pranav-358/cpp-learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -64,6 +65,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/pranav-358/cpp-learning/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/pranav-358/cpp-learning/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pranav-358/cpp-learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -80,6 +82,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/pranav-358/cpp-learning/tree/master/0486-predict-the-winner) |
+| [1386-cinema-seat-allocation](https://github.com/pranav-358/cpp-learning/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/pranav-358/cpp-learning/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/pranav-358/cpp-learning/tree/master/2029-stone-game-ix) |
@@ -150,4 +153,8 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pranav-358/cpp-learning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/pranav-358/cpp-learning/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
