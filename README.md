@@ -61,11 +61,13 @@ The purpose of this repository is to practice C++ programming and keep track of 
 ## String
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/pranav-358/cpp-learning/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pranav-358/cpp-learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/pranav-358/cpp-learning/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/pranav-358/cpp-learning/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pranav-358/cpp-learning/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pranav-358/cpp-learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -98,6 +100,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pranav-358/cpp-learning/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/pranav-358/cpp-learning/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/pranav-358/cpp-learning/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pranav-358/cpp-learning/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pranav-358/cpp-learning/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pranav-358/cpp-learning/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -119,6 +122,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pranav-358/cpp-learning/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/pranav-358/cpp-learning/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/pranav-358/cpp-learning/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pranav-358/cpp-learning/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
