@@ -87,6 +87,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [1386-cinema-seat-allocation](https://github.com/pranav-358/cpp-learning/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/pranav-358/cpp-learning/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/pranav-358/cpp-learning/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/pranav-358/cpp-learning/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pranav-358/cpp-learning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pranav-358/cpp-learning/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -100,6 +101,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pranav-358/cpp-learning/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/pranav-358/cpp-learning/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/pranav-358/cpp-learning/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/pranav-358/cpp-learning/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pranav-358/cpp-learning/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pranav-358/cpp-learning/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -111,6 +113,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pranav-358/cpp-learning/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/pranav-358/cpp-learning/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/pranav-358/cpp-learning/tree/master/1872-stone-game-viii) |
 ## Recursion
 |  |
 | ------- |
@@ -122,6 +125,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pranav-358/cpp-learning/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/pranav-358/cpp-learning/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/pranav-358/cpp-learning/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/pranav-358/cpp-learning/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pranav-358/cpp-learning/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -129,12 +133,14 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | ------- |
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pranav-358/cpp-learning/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/pranav-358/cpp-learning/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/pranav-358/cpp-learning/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pranav-358/cpp-learning/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/pranav-358/cpp-learning/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/pranav-358/cpp-learning/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
@@ -182,4 +188,8 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pranav-358/cpp-learning/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/pranav-358/cpp-learning/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
