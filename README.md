@@ -65,6 +65,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | ------- |
 | [0013-roman-to-integer](https://github.com/pranav-358/cpp-learning/tree/master/0013-roman-to-integer) |
 | [1927-sum-game](https://github.com/pranav-358/cpp-learning/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranav-358/cpp-learning/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pranav-358/cpp-learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -171,6 +172,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranav-358/cpp-learning/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pranav-358/cpp-learning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
 |  |
