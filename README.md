@@ -87,6 +87,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pranav-358/cpp-learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0486-predict-the-winner](https://github.com/pranav-358/cpp-learning/tree/master/0486-predict-the-winner) |
 | [1386-cinema-seat-allocation](https://github.com/pranav-358/cpp-learning/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
@@ -199,4 +200,8 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/pranav-358/cpp-learning/tree/master/1872-stone-game-viii) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pranav-358/cpp-learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
