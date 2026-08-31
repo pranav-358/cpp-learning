@@ -214,4 +214,8 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/pranav-358/cpp-learning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pranav-358/cpp-learning/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
