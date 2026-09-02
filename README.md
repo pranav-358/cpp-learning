@@ -106,6 +106,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pranav-358/cpp-learning/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pranav-358/cpp-learning/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pranav-358/cpp-learning/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pranav-358/cpp-learning/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -119,6 +120,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [2029-stone-game-ix](https://github.com/pranav-358/cpp-learning/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pranav-358/cpp-learning/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pranav-358/cpp-learning/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pranav-358/cpp-learning/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
