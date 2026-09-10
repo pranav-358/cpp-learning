@@ -69,6 +69,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pranav-358/cpp-learning/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0020-valid-parentheses) |
 | [1927-sum-game](https://github.com/pranav-358/cpp-learning/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranav-358/cpp-learning/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pranav-358/cpp-learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -240,4 +241,12 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-358/cpp-learning/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
