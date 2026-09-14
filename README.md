@@ -129,6 +129,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [0070-climbing-stairs](https://github.com/pranav-358/cpp-learning/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/pranav-358/cpp-learning/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/pranav-358/cpp-learning/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/pranav-358/cpp-learning/tree/master/0836-rectangle-overlap) |
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pranav-358/cpp-learning/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/pranav-358/cpp-learning/tree/master/1563-stone-game-v) |
@@ -260,4 +261,8 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pranav-358/cpp-learning/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/pranav-358/cpp-learning/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
