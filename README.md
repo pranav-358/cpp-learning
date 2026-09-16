@@ -103,6 +103,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranav-358/cpp-learning/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/pranav-358/cpp-learning/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/pranav-358/cpp-learning/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pranav-358/cpp-learning/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pranav-358/cpp-learning/tree/master/0283-move-zeroes) |
@@ -127,6 +128,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pranav-358/cpp-learning/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/pranav-358/cpp-learning/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/pranav-358/cpp-learning/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/pranav-358/cpp-learning/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/pranav-358/cpp-learning/tree/master/0486-predict-the-winner) |
