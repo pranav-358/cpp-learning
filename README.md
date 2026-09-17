@@ -109,6 +109,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [0283-move-zeroes](https://github.com/pranav-358/cpp-learning/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranav-358/cpp-learning/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/pranav-358/cpp-learning/tree/master/0486-predict-the-winner) |
+| [1266-minimum-time-visiting-all-points](https://github.com/pranav-358/cpp-learning/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-358/cpp-learning/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/pranav-358/cpp-learning/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
@@ -133,6 +134,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [0268-missing-number](https://github.com/pranav-358/cpp-learning/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/pranav-358/cpp-learning/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/pranav-358/cpp-learning/tree/master/0836-rectangle-overlap) |
+| [1266-minimum-time-visiting-all-points](https://github.com/pranav-358/cpp-learning/tree/master/1266-minimum-time-visiting-all-points) |
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pranav-358/cpp-learning/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/pranav-358/cpp-learning/tree/master/1563-stone-game-v) |
@@ -269,4 +271,5 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/pranav-358/cpp-learning/tree/master/0836-rectangle-overlap) |
+| [1266-minimum-time-visiting-all-points](https://github.com/pranav-358/cpp-learning/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
