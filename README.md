@@ -88,6 +88,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pranav-358/cpp-learning/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/pranav-358/cpp-learning/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pranav-358/cpp-learning/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-358/cpp-learning/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -102,6 +103,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pranav-358/cpp-learning/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranav-358/cpp-learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/pranav-358/cpp-learning/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/pranav-358/cpp-learning/tree/master/0217-contains-duplicate) |
@@ -240,6 +242,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pranav-358/cpp-learning/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranav-358/cpp-learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/pranav-358/cpp-learning/tree/master/0283-move-zeroes) |
 ## Enumeration
