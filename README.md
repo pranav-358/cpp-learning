@@ -53,6 +53,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pranav-358/cpp-learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/pranav-358/cpp-learning/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/pranav-358/cpp-learning/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pranav-358/cpp-learning/tree/master/0268-missing-number) |
@@ -69,6 +70,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pranav-358/cpp-learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/pranav-358/cpp-learning/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/pranav-358/cpp-learning/tree/master/0058-length-of-last-word) |
@@ -210,6 +212,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pranav-358/cpp-learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranav-358/cpp-learning/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pranav-358/cpp-learning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
