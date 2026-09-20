@@ -105,6 +105,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pranav-358/cpp-learning/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/pranav-358/cpp-learning/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranav-358/cpp-learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/pranav-358/cpp-learning/tree/master/0066-plus-one) |
@@ -228,6 +229,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pranav-358/cpp-learning/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/pranav-358/cpp-learning/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pranav-358/cpp-learning/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
@@ -278,4 +280,8 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/pranav-358/cpp-learning/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/pranav-358/cpp-learning/tree/master/1266-minimum-time-visiting-all-points) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pranav-358/cpp-learning/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
