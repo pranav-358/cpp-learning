@@ -74,6 +74,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [0013-roman-to-integer](https://github.com/pranav-358/cpp-learning/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/pranav-358/cpp-learning/tree/master/0058-length-of-last-word) |
 | [1927-sum-game](https://github.com/pranav-358/cpp-learning/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranav-358/cpp-learning/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -156,6 +157,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/pranav-358/cpp-learning/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/pranav-358/cpp-learning/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
@@ -269,11 +271,13 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0032-longest-valid-parentheses) |
 ## Memoization
 |  |
 | ------- |
