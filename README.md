@@ -76,6 +76,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [0022-generate-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/pranav-358/cpp-learning/tree/master/0058-length-of-last-word) |
+| [0678-valid-parenthesis-string](https://github.com/pranav-358/cpp-learning/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/pranav-358/cpp-learning/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranav-358/cpp-learning/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pranav-358/cpp-learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -83,6 +84,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/pranav-358/cpp-learning/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/pranav-358/cpp-learning/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/pranav-358/cpp-learning/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pranav-358/cpp-learning/tree/master/2029-stone-game-ix) |
@@ -160,6 +162,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [0032-longest-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/pranav-358/cpp-learning/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/pranav-358/cpp-learning/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/pranav-358/cpp-learning/tree/master/0678-valid-parenthesis-string) |
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pranav-358/cpp-learning/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/pranav-358/cpp-learning/tree/master/1563-stone-game-v) |
@@ -272,12 +275,14 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/pranav-358/cpp-learning/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/pranav-358/cpp-learning/tree/master/0678-valid-parenthesis-string) |
 ## Memoization
 |  |
 | ------- |
