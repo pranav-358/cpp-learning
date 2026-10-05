@@ -77,6 +77,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [0032-longest-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/pranav-358/cpp-learning/tree/master/0058-length-of-last-word) |
 | [0678-valid-parenthesis-string](https://github.com/pranav-358/cpp-learning/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0856-score-of-parentheses) |
 | [1927-sum-game](https://github.com/pranav-358/cpp-learning/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranav-358/cpp-learning/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pranav-358/cpp-learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -276,6 +277,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [0020-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/pranav-358/cpp-learning/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -283,6 +285,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [0022-generate-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/pranav-358/cpp-learning/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0856-score-of-parentheses) |
 ## Memoization
 |  |
 | ------- |
