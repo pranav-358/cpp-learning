@@ -76,6 +76,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [0022-generate-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/pranav-358/cpp-learning/tree/master/0058-length-of-last-word) |
+| [0301-remove-invalid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/pranav-358/cpp-learning/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranav-358/cpp-learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -206,6 +207,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0301-remove-invalid-parentheses) |
 | [3310-remove-methods-from-project](https://github.com/pranav-358/cpp-learning/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -307,4 +309,5 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
