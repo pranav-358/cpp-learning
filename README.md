@@ -93,6 +93,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [1927-sum-game](https://github.com/pranav-358/cpp-learning/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pranav-358/cpp-learning/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pranav-358/cpp-learning/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/pranav-358/cpp-learning/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pranav-358/cpp-learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/pranav-358/cpp-learning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
@@ -102,6 +103,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [0217-contains-duplicate](https://github.com/pranav-358/cpp-learning/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pranav-358/cpp-learning/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-358/cpp-learning/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/pranav-358/cpp-learning/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pranav-358/cpp-learning/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pranav-358/cpp-learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -130,6 +132,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [1872-stone-game-viii](https://github.com/pranav-358/cpp-learning/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/pranav-358/cpp-learning/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pranav-358/cpp-learning/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/pranav-358/cpp-learning/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pranav-358/cpp-learning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pranav-358/cpp-learning/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pranav-358/cpp-learning/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -243,6 +246,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pranav-358/cpp-learning/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/pranav-358/cpp-learning/tree/master/0268-missing-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/pranav-358/cpp-learning/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pranav-358/cpp-learning/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
@@ -310,4 +314,8 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | ------- |
 | [0022-generate-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/pranav-358/cpp-learning/tree/master/0301-remove-invalid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/pranav-358/cpp-learning/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
