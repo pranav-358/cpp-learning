@@ -133,6 +133,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [2029-stone-game-ix](https://github.com/pranav-358/cpp-learning/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pranav-358/cpp-learning/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pranav-358/cpp-learning/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/pranav-358/cpp-learning/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pranav-358/cpp-learning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pranav-358/cpp-learning/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pranav-358/cpp-learning/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -269,6 +270,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/pranav-358/cpp-learning/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pranav-358/cpp-learning/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/pranav-358/cpp-learning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
