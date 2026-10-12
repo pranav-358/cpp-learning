@@ -128,6 +128,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-358/cpp-learning/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/pranav-358/cpp-learning/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/pranav-358/cpp-learning/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/pranav-358/cpp-learning/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/pranav-358/cpp-learning/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/pranav-358/cpp-learning/tree/master/2029-stone-game-ix) |
@@ -260,6 +261,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/pranav-358/cpp-learning/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/pranav-358/cpp-learning/tree/master/1872-stone-game-viii) |
 ## Two Pointers
 |  |
