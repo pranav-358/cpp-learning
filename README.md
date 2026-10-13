@@ -96,6 +96,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [2333-minimum-sum-of-squared-difference](https://github.com/pranav-358/cpp-learning/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pranav-358/cpp-learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/pranav-358/cpp-learning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/pranav-358/cpp-learning/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +107,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [2333-minimum-sum-of-squared-difference](https://github.com/pranav-358/cpp-learning/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pranav-358/cpp-learning/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pranav-358/cpp-learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/pranav-358/cpp-learning/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
@@ -142,6 +144,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pranav-358/cpp-learning/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pranav-358/cpp-learning/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pranav-358/cpp-learning/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/pranav-358/cpp-learning/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pranav-358/cpp-learning/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
