@@ -132,6 +132,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [1406-stone-game-iii](https://github.com/pranav-358/cpp-learning/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/pranav-358/cpp-learning/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/pranav-358/cpp-learning/tree/master/1563-stone-game-v) |
+| [1672-richest-customer-wealth](https://github.com/pranav-358/cpp-learning/tree/master/1672-richest-customer-wealth) |
 | [1872-stone-game-viii](https://github.com/pranav-358/cpp-learning/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/pranav-358/cpp-learning/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pranav-358/cpp-learning/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -325,4 +326,8 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pranav-358/cpp-learning/tree/master/2333-minimum-sum-of-squared-difference) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/pranav-358/cpp-learning/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
