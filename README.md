@@ -103,6 +103,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [0015-3sum](https://github.com/pranav-358/cpp-learning/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/pranav-358/cpp-learning/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pranav-358/cpp-learning/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/pranav-358/cpp-learning/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-358/cpp-learning/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pranav-358/cpp-learning/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pranav-358/cpp-learning/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -127,6 +128,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranav-358/cpp-learning/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/pranav-358/cpp-learning/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/pranav-358/cpp-learning/tree/master/0486-predict-the-winner) |
+| [0977-squares-of-a-sorted-array](https://github.com/pranav-358/cpp-learning/tree/master/0977-squares-of-a-sorted-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/pranav-358/cpp-learning/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pranav-358/cpp-learning/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-358/cpp-learning/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -276,6 +278,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [0015-3sum](https://github.com/pranav-358/cpp-learning/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranav-358/cpp-learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/pranav-358/cpp-learning/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/pranav-358/cpp-learning/tree/master/0977-squares-of-a-sorted-array) |
 ## Enumeration
 |  |
 | ------- |
