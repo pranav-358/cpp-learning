@@ -53,6 +53,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pranav-358/cpp-learning/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranav-358/cpp-learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/pranav-358/cpp-learning/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/pranav-358/cpp-learning/tree/master/0217-contains-duplicate) |
@@ -118,6 +119,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pranav-358/cpp-learning/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/pranav-358/cpp-learning/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/pranav-358/cpp-learning/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranav-358/cpp-learning/tree/master/0026-remove-duplicates-from-sorted-array) |
