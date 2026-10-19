@@ -56,6 +56,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [0001-two-sum](https://github.com/pranav-358/cpp-learning/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranav-358/cpp-learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/pranav-358/cpp-learning/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/pranav-358/cpp-learning/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranav-358/cpp-learning/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pranav-358/cpp-learning/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranav-358/cpp-learning/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -102,6 +103,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pranav-358/cpp-learning/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/pranav-358/cpp-learning/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranav-358/cpp-learning/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pranav-358/cpp-learning/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranav-358/cpp-learning/tree/master/0977-squares-of-a-sorted-array) |
@@ -113,6 +115,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pranav-358/cpp-learning/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/pranav-358/cpp-learning/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pranav-358/cpp-learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/pranav-358/cpp-learning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -124,6 +127,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 | [0015-3sum](https://github.com/pranav-358/cpp-learning/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranav-358/cpp-learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/pranav-358/cpp-learning/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/pranav-358/cpp-learning/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranav-358/cpp-learning/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pranav-358/cpp-learning/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pranav-358/cpp-learning/tree/master/0283-move-zeroes) |
@@ -325,6 +329,7 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pranav-358/cpp-learning/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/pranav-358/cpp-learning/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -338,4 +343,8 @@ The purpose of this repository is to practice C++ programming and keep track of 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/pranav-358/cpp-learning/tree/master/1672-richest-customer-wealth) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pranav-358/cpp-learning/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
